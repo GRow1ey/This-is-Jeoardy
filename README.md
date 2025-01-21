@@ -1,2 +1,4 @@
 # This-is-Jeoardy
-A data analysis project completed as part of a course in Data Science on Codecademy involving analysing data from the game show Jeopardy.
+
+## Project Goals
+You will work to write several functions that investigate a dataset of Jeopardy! questions and answers. Filter the dataset for topics that you’re interested in, compute the average difficulty of those questions, and train to become the next Jeopardy champion!
